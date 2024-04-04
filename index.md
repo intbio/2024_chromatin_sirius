@@ -1,5 +1,5 @@
-<a href="https://github.com/intbio/mol_model_course_2022/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# От организации хроматина к пониманию функционирования геномов эукариот (Весна 2023)
+<a href="https://github.com/intbio/2023_chromatin_sirius/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+# От организации хроматина к пониманию функционирования геномов эукариот (Весна 2024)
 
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
