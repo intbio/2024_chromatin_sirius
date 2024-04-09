@@ -11,7 +11,7 @@
 
 #### День 2. ДНК
 [Лекция]()  
-[Семинар](slides/seminar1.pdf)  
+[Семинар](https://docs.google.com/presentation/d/17dtTOsecF7vjAJzu33mwhS5_REbqeD7dvtzvchDN5p4/edit?usp=sharing)
 
 
 #### День 3. Эпигенетика
