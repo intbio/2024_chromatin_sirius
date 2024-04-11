@@ -18,7 +18,7 @@
 
 
 #### День 4. Экспериментальная эпигеномика
-
+[Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=sharing) 
 
 #### День 5.
 
