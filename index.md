@@ -23,6 +23,7 @@
 [Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
 
 #### День 5. Экспериментальная эпигеномика
+[Семинар](https://docs.google.com/presentation/d/1ZOiD6E1xokh0Bbu730JUYj7MwAv6binuyzceU7cvn0g/edit?usp=sharing)
 
 #### День 6. Практическое приложение
 
