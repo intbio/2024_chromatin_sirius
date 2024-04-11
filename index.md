@@ -9,17 +9,17 @@
 [Лекция](slides/1Lecture1_Intro_new.pdf)  
 
 
-#### День 2. ДНК
+#### День 2. Хроматин: от ДНК до супрануклеосомной структуры
 [Лекция](3Lecture2_Chromatin_new.pdf)  
 [Семинар](https://docs.google.com/presentation/d/1V4Hjo7pQuXwXuTRNGFREk2jlc_GXlvonYyP7LjB1qZo/edit?usp=drive_link)
 
 
 #### День 3. 3D-структура хроматина и эпигенетикa 
-[Лекция](4-5Lecture3_3D_and_Epigenetics.pdf) 
+[Лекция](4-5Lecture3_3D_and_Epigenetics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/17dtTOsecF7vjAJzu33mwhS5_REbqeD7dvtzvchDN5p4/edit?usp=drive_link)
 
 #### День 4. 3D-структура хроматина и эпигенетикa 
-[Лекция](4-5Lecture3_3D_and_Epigenetics.pdf) 
+[Лекция](4-5Lecture3_3D_and_Epigenetics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
 
 #### День 5. Экспериментальная эпигеномика
