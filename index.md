@@ -23,10 +23,13 @@
 [Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
 
 #### День 5. Экспериментальная эпигеномика
+[Лекция](6Lecture4_Experimental_epigenomics.pdf)
 [Семинар](https://docs.google.com/presentation/d/1ZOiD6E1xokh0Bbu730JUYj7MwAv6binuyzceU7cvn0g/edit?usp=sharing)
 
-#### День 6. Практическое приложение
+#### День 6. Практическое приложение  
 
+#### Ответы на вопросы
+[Презентация](https://docs.google.com/presentation/d/1IhCjqGYbSR8x5BLQgXGSyBPb8V48I2nKEXX4Mgw14Oo/edit?usp=sharing)  
 
 #### Зачет
 - [Темы для рефератов](https://docs.google.com/document/d/1ztJtFxGLdJS_T3wqNKGaLk0DuVyhWBLSSNaUYAShHxo/edit?usp=sharing)
