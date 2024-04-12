@@ -30,7 +30,8 @@
 
 
 #### День 6. Практическое приложение  
-
+[Лекция]  
+[Семинар](https://docs.google.com/presentation/d/146BUyYFfyRosMwYe37L8SfqReJNcJiNHnmiJInV4Yrg/edit?usp=sharing)
 
 #### Ответы на вопросы
 [Презентация](https://docs.google.com/presentation/d/1IhCjqGYbSR8x5BLQgXGSyBPb8V48I2nKEXX4Mgw14Oo/edit?usp=sharing)  
