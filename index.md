@@ -10,27 +10,27 @@
 
 
 #### День 2. Хроматин: от ДНК до супрануклеосомной структуры
-[Лекция](3Lecture2_Chromatin_new.pdf)  
+[Лекция](slides/3Lecture2_Chromatin_new.pdf)  
 [Семинар](https://docs.google.com/presentation/d/1V4Hjo7pQuXwXuTRNGFREk2jlc_GXlvonYyP7LjB1qZo/edit?usp=drive_link)
 
 
 #### День 3. 3D-структура хроматина и эпигенетикa 
-[Лекция](4-5Lecture3_3D_and_Epigenetics.pdf)  
+[Лекция](slides/4-5Lecture3_3D_and_Epigenetics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/17dtTOsecF7vjAJzu33mwhS5_REbqeD7dvtzvchDN5p4/edit?usp=drive_link)
 
 
 #### День 4. 3D-структура хроматина и эпигенетикa 
-[Лекция](4-5Lecture3_3D_and_Epigenetics.pdf)  
+[Лекция](slides/4-5Lecture3_3D_and_Epigenetics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
 
 
 #### День 5. Экспериментальная эпигеномика
-[Лекция](6Lecture4_Experimental_epigenomics.pdf)  
+[Лекция](slides/6Lecture4_Experimental_epigenomics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/1ZOiD6E1xokh0Bbu730JUYj7MwAv6binuyzceU7cvn0g/edit?usp=sharing)
 
 
 #### День 6. Практическое приложение  
-[Лекция]  
+[Лекция](slides/7Lecture6_Advanced_topics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/146BUyYFfyRosMwYe37L8SfqReJNcJiNHnmiJInV4Yrg/edit?usp=sharing)
 
 #### Ответы на вопросы
